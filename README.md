@@ -3,13 +3,12 @@
 Creación de aplicaciones para plataformas móviles con el uso de tecnologías web (HMTL5, CSS3 y JavaScript), para después ser compilado por PhoneGap. https://build.phonegap.com/apps
 
 Estructura del proyecto:
-
-├── config.xml
+├──config.xml
 ├── hooks
-│   └── README.md
+│   ├── README.md
 ├── platforms
 │   ├── AndroidManifest.xml
-│   └── Info.plist
+│   ├── Info.plist
 └── www
     ├── carlos.html
     ├── css
